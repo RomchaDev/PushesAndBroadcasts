@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "427496478161",
+    "firebase_url": "https://weatherappnew-bf515.firebaseio.com",
+    "project_id": "weatherappnew-bf515",
+    "storage_bucket": "weatherappnew-bf515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427496478161:android:05719ee2c4d0f0a8ec7cf0",
+        "android_client_info": {
+          "package_name": "com.example.pushesandbroadcasts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427496478161-cpj3rhqucgi89sq20997j2t7vqom25gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsa1wnUkmwPwgfh2gckqRy18x2chMMZcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427496478161-cpj3rhqucgi89sq20997j2t7vqom25gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
